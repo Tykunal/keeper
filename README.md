@@ -59,3 +59,7 @@ The `Footer` component displays the current year.
 ### Note
 
 The `Note` component displays individual notes with a title and content. It also includes a button to delete the note.
+
+## Author
+
+Kunal Tyagi
